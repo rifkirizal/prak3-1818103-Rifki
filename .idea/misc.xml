@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Kuliah/pertemuan3/app/src/main/res/layout/activity_main.xml" value="0.1644021739130435" />
+        <entry key="..\:/Kuliah/pertemuan3/app/src/main/res/drawable/ic_chat.xml" value="0.1125" />
+        <entry key="..\:/Kuliah/pertemuan3/app/src/main/res/layout/activity_main.xml" value="0.30427350427350425" />
         <entry key="..\:/Kuliah/pertemuan3/app/src/main/res/layout/fragment_chat.xml" value="0.1644021739130435" />
         <entry key="..\:/Kuliah/pertemuan3/app/src/main/res/layout/fragment_message.xml" value="0.1644021739130435" />
         <entry key="..\:/Kuliah/pertemuan3/app/src/main/res/layout/fragment_profile.xml" value="0.1644021739130435" />
